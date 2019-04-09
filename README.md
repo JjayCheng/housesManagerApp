@@ -1,4 +1,4 @@
-# A manageable App of information for houses
+# A manageable App for information of houses
 
 vue & vue-router
 
