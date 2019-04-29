@@ -8,5 +8,8 @@ vue & vue-router
   dev-server-producation
     npm run dev-pro
 
+  android project:
+    https://github.com/JjayCheng/housesManagerApp-Android
+  
   build -> file://./dist/index.html
-    npm run build
+     npm run build
